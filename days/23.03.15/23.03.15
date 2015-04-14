@@ -1,0 +1,77 @@
+\subsubsection{23.03.15}
+\begin{enumerate}
+	
+	\item The time of beginning and ending of the meeting: 8:00 - 18:20.
+	
+	\item Purposes of the meeting: 
+	\begin{enumerate}
+		
+		\item To change the bottom part of bucket.
+		
+		\item To fix wheels.
+		
+		\item To install blades on gripper for balls.
+		
+		\item To package robot for transportation it to Moscow to PTC Live Tech Forum.
+		
+	\end{enumerate}
+	
+	\item Work that has been done:
+	\begin{enumerate}
+		
+		\item When we projected robot we noticed that bucket hook couplers which fixed on the axles with gears that rotate wheels. So we decided to remove it's bottom part and make new one. The new part should be norrower and longer (else 5 balls will not fit in the bucket).
+		
+		\item We drew the projection of bottom part of bucket on the list of PET.
+		
+		\begin{figure}[H]
+			\begin{minipage}[h]{0.2\linewidth}
+				\center  
+			\end{minipage}
+			\begin{minipage}[h]{0.6\linewidth}
+				\center{\includegraphics[scale=0.1]{days/23.03.15/images/01}}
+				\caption{The drawing of the new bottom part of bucket}
+			\end{minipage}
+		\end{figure}
+		
+		\item The new bottom part of bucket was made and fixed on the top part. Also it was decided to increace hight of the front wall from 7cm to 9cm. So balls never fall from the bucket.
+		\begin{figure}[H]
+			\begin{minipage}[h]{0.2\linewidth}
+				\center  
+			\end{minipage}
+			\begin{minipage}[h]{0.6\linewidth}
+				\center{\includegraphics[scale=0.1]{days/23.03.15/images/02}}
+				\caption{The new bottom part of bucket}
+			\end{minipage}
+		\end{figure}
+		
+		\item Wheel base was fixed on the robot. In addition we decided to replace Tetrix motors with Andy Mark when we'll get them in PTC forum in Moscow. Andy Mark motors are slightly more powerful and more durable.
+		
+		\item One blade was installed on gripper for balls.
+		
+	\end{enumerate}
+	
+	\item Results:
+	\begin{enumerate}
+		
+		\item Bucket was finished.
+		
+		\item Wheel base was installed.
+		
+		\item One blade was installed on gripper for balls.
+		
+	\end{enumerate}
+	
+	\item Tasks for the next meetings:
+	\begin{enumerate}
+		
+		\item To replace Tetrix motors with Andy Mark. 
+		
+		\item To hold all wires.
+		
+		\item To install second blade on the gripper for balls.
+		
+		\item To test the wheel base.
+		
+	\end{enumerate}
+\end{enumerate}
+\fillpage
