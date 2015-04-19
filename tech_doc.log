@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  19 APR 2015 04:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.5)  19 APR 2015 06:50
 entering extended mode
 **tech_doc.tex
 ("C:\Users\User\Desktop\tech book eng\tech_doc.tex"
@@ -4323,27 +4323,51 @@ Overfull \hbox (2.81628pt too wide) in paragraph at lines 3--7
  at the event "PTC Live Tech Forum"organised
  []
 
-<days/24.03.15/images/01.jpg, id=856, 624.83438pt x 344.03531pt>
+<days/24.03.15/images/01.jpg, id=856, 976.39781pt x 298.86656pt>
 File: days/24.03.15/images/01.jpg Graphic file (type jpg)
 
 <use days/24.03.15/images/01.jpg>
-Package pdftex.def Info: days/24.03.15/images/01.jpg used on input line 38.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+Package pdftex.def Info: days/24.03.15/images/01.jpg used on input line 35.
+(pdftex.def)             Requested size: 244.09885pt x 74.71645pt.
 
-<days/24.03.15/images/02.jpg, id=857, 624.83438pt x 344.03531pt>
+Overfull \hbox (2.18436pt too wide) in paragraph at lines 35--36
+ [] 
+ []
+
+<days/24.03.15/images/02.jpg, id=857, 763.35187pt x 440.39531pt>
 File: days/24.03.15/images/02.jpg Graphic file (type jpg)
 
 <use days/24.03.15/images/02.jpg>
-Package pdftex.def Info: days/24.03.15/images/02.jpg used on input line 49.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
- [172 <C:/Users/User/Desktop/tech book eng/days/24.03.15/images/01.jpg> <C:/Use
-rs/User/Desktop/tech book eng/days/24.03.15/images/02.jpg>] <days/24.03.15/imag
-es/03.jpg, id=861, 624.83438pt x 344.03531pt>
+Package pdftex.def Info: days/24.03.15/images/02.jpg used on input line 39.
+(pdftex.def)             Requested size: 229.00732pt x 132.1196pt.
+
+<days/24.03.15/images/03.jpg, id=858, 703.12688pt x 548.80031pt>
 File: days/24.03.15/images/03.jpg Graphic file (type jpg)
 
 <use days/24.03.15/images/03.jpg>
-Package pdftex.def Info: days/24.03.15/images/03.jpg used on input line 62.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+Package pdftex.def Info: days/24.03.15/images/03.jpg used on input line 47.
+(pdftex.def)             Requested size: 210.93968pt x 164.64136pt.
+
+<days/24.03.15/images/04.jpg, id=859, 750.55406pt x 580.41844pt>
+File: days/24.03.15/images/04.jpg Graphic file (type jpg)
+
+<use days/24.03.15/images/04.jpg>
+Package pdftex.def Info: days/24.03.15/images/04.jpg used on input line 52.
+(pdftex.def)             Requested size: 225.16795pt x 174.12688pt.
+
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [172 <C:/Users/User/Desktop/tech book eng/days/24.03.15/images/01.jpg> <C:/Use
+rs/User/Desktop/tech book eng/days/24.03.15/images/02.jpg>]
+<days/24.03.15/images/05.jpg, id=863, 593.21625pt x 509.65407pt>
+File: days/24.03.15/images/05.jpg Graphic file (type jpg)
+
+<use days/24.03.15/images/05.jpg>
+Package pdftex.def Info: days/24.03.15/images/05.jpg used on input line 65.
+(pdftex.def)             Requested size: 237.28229pt x 203.858pt.
+ [173 <C:/Users/User/Desktop/tech book eng/days/24.03.15/images/03.jpg> <C:/Use
+rs/User/Desktop/tech book eng/days/24.03.15/images/04.jpg> <C:/Users/User/Deskt
+op/tech book eng/days/24.03.15/images/05.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4352,40 +4376,39 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 97.
+(epstopdf)             \includegraphics on input line 100.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
+<use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-97.
-(pdftex.def)             Requested size: 514.75555pt x 167.49283pt.
-
-[173 <C:/Users/User/Desktop/tech book eng/days/24.03.15/images/03.jpg>])
+100.
+(pdftex.def)             Requested size: 514.75555pt x 538.95837pt.
+ [174])
 ("C:\Users\User\Desktop\tech book eng\days/25.03.15/25.03.15.tex"
-<days/25.03.15/images/01.jpg, id=865, 624.83438pt x 344.03531pt>
+<days/25.03.15/images/01.jpg, id=870, 993.7125pt x 520.94624pt>
 File: days/25.03.15/images/01.jpg Graphic file (type jpg)
 
 <use days/25.03.15/images/01.jpg>
 Package pdftex.def Info: days/25.03.15/images/01.jpg used on input line 34.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+(pdftex.def)             Requested size: 228.54906pt x 119.81511pt.
 
 
 LaTeX Warning: Command \textdegree invalid in math mode on input line 39.
 
-<days/25.03.15/images/02.jpg, id=866, 624.83438pt x 344.03531pt>
+<days/25.03.15/images/02.jpg, id=871, 795.97375pt x 411.5375pt>
 File: days/25.03.15/images/02.jpg Graphic file (type jpg)
 
 <use days/25.03.15/images/02.jpg>
 Package pdftex.def Info: days/25.03.15/images/02.jpg used on input line 45.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+(pdftex.def)             Requested size: 238.79396pt x 123.4622pt.
 
-<days/25.03.15/images/03.jpg, id=867, 624.83438pt x 344.03531pt>
+<days/25.03.15/images/03.jpg, id=872, 1030.85126pt x 767.86874pt>
 File: days/25.03.15/images/03.jpg Graphic file (type jpg)
 
 <use days/25.03.15/images/03.jpg>
 Package pdftex.def Info: days/25.03.15/images/03.jpg used on input line 58.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
- [174 <C:/Users/User/Desktop/tech book eng/days/25.03.15/images/01.jpg> <C:/Use
+(pdftex.def)             Requested size: 206.1666pt x 153.57103pt.
+ [175 <C:/Users/User/Desktop/tech book eng/days/25.03.15/images/01.jpg> <C:/Use
 rs/User/Desktop/tech book eng/days/25.03.15/images/02.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
@@ -4401,37 +4424,51 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
  <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 99.
-(pdftex.def)             Requested size: 514.75555pt x 169.1513pt.
- [175 <C:/Users/User/Desktop/tech book eng/days/25.03.15/images/03.jpg>])
+(pdftex.def)             Requested size: 514.75555pt x 65.46057pt.
+ [176 <C:/Users/User/Desktop/tech book eng/days/25.03.15/images/03.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/26.03.15/26.03.15.tex"
-<days/26.03.15/images/01.jpg, id=876, 624.83438pt x 344.03531pt>
+<days/26.03.15/images/01.jpg, id=881, 251.94125pt x 270.00874pt>
 File: days/26.03.15/images/01.jpg Graphic file (type jpg)
 
 <use days/26.03.15/images/01.jpg>
-Package pdftex.def Info: days/26.03.15/images/01.jpg used on input line 35.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+Package pdftex.def Info: days/26.03.15/images/01.jpg used on input line 32.
+(pdftex.def)             Requested size: 125.9703pt x 135.00403pt.
 
-<days/26.03.15/images/02.jpg, id=877, 624.83438pt x 344.03531pt>
+<days/26.03.15/images/02.jpg, id=882, 192.72pt x 170.6375pt>
 File: days/26.03.15/images/02.jpg Graphic file (type jpg)
 
 <use days/26.03.15/images/02.jpg>
-Package pdftex.def Info: days/26.03.15/images/02.jpg used on input line 46.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+Package pdftex.def Info: days/26.03.15/images/02.jpg used on input line 36.
+(pdftex.def)             Requested size: 154.1762pt x 136.51016pt.
 
-<days/26.03.15/images/03.jpg, id=878, 624.83438pt x 344.03531pt>
+<days/26.03.15/images/03.jpg, id=883, 585.18625pt x 689.57625pt>
 File: days/26.03.15/images/03.jpg Graphic file (type jpg)
 
 <use days/26.03.15/images/03.jpg>
-Package pdftex.def Info: days/26.03.15/images/03.jpg used on input line 57.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
- [176 <C:/Users/User/Desktop/tech book eng/days/26.03.15/images/01.jpg> <C:/Use
-rs/User/Desktop/tech book eng/days/26.03.15/images/02.jpg>] <days/26.03.15/imag
-es/04.jpg, id=882, 624.83438pt x 344.03531pt>
+Package pdftex.def Info: days/26.03.15/images/03.jpg used on input line 44.
+(pdftex.def)             Requested size: 146.2962pt x 172.39363pt.
+
+<days/26.03.15/images/04.jpg, id=884, 1044.90375pt x 516.93124pt>
 File: days/26.03.15/images/04.jpg Graphic file (type jpg)
 
 <use days/26.03.15/images/04.jpg>
-Package pdftex.def Info: days/26.03.15/images/04.jpg used on input line 68.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+Package pdftex.def Info: days/26.03.15/images/04.jpg used on input line 49.
+(pdftex.def)             Requested size: 313.47354pt x 155.08057pt.
+
+Overfull \hbox (71.55905pt too wide) in paragraph at lines 49--50
+ [] 
+ []
+
+[177 <C:/Users/User/Desktop/tech book eng/days/26.03.15/images/01.jpg> <C:/User
+s/User/Desktop/tech book eng/days/26.03.15/images/02.jpg> <C:/Users/User/Deskto
+p/tech book eng/days/26.03.15/images/03.jpg> <C:/Users/User/Desktop/tech book e
+ng/days/26.03.15/images/04.jpg>]
+<days/26.03.15/images/05.jpg, id=888, 953.5625pt x 377.41pt>
+File: days/26.03.15/images/05.jpg Graphic file (type jpg)
+
+<use days/26.03.15/images/05.jpg>
+Package pdftex.def Info: days/26.03.15/images/05.jpg used on input line 62.
+(pdftex.def)             Requested size: 286.07095pt x 113.22386pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4440,16 +4477,15 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 103.
+(epstopdf)             \includegraphics on input line 97.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
  <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-103.
-(pdftex.def)             Requested size: 514.75555pt x 67.87946pt.
+97.
+(pdftex.def)             Requested size: 514.75555pt x 170.07887pt.
 
-[177 <C:/Users/User/Desktop/tech book eng/days/26.03.15/images/03.jpg> <C:/User
-s/User/Desktop/tech book eng/days/26.03.15/images/04.jpg>])
+[178 <C:/Users/User/Desktop/tech book eng/days/26.03.15/images/05.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/27.03.15/27.03.15.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
@@ -4465,30 +4501,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-<days/27.03.15/images/01.jpg, id=886, 624.83438pt x 344.03531pt>
+<days/27.03.15/images/01.jpg, id=892, 297.11pt x 131.49126pt>
 File: days/27.03.15/images/01.jpg Graphic file (type jpg)
 
 <use days/27.03.15/images/01.jpg>
 Package pdftex.def Info: days/27.03.15/images/01.jpg used on input line 37.
-(pdftex.def)             Requested size: 112.46533pt x 61.92368pt.
-File: days/27.03.15/images/01.jpg Graphic file (type jpg)
- <use days/27.03.15/images/01.jpg>
-Package pdftex.def Info: days/27.03.15/images/01.jpg used on input line 49.
-(pdftex.def)             Requested size: 112.46533pt x 61.92368pt.
-
-<days/27.03.15/images/02.jpg, id=887, 624.83438pt x 344.03531pt>
+(pdftex.def)             Requested size: 207.97557pt x 92.04324pt.
+ [179 <C:/Users/User/Desktop/tech book eng/days/27.03.15/images/01.jpg>]
+<days/27.03.15/images/02.jpg, id=896, 347.2975pt x 201.75375pt>
 File: days/27.03.15/images/02.jpg Graphic file (type jpg)
 
 <use days/27.03.15/images/02.jpg>
-Package pdftex.def Info: days/27.03.15/images/02.jpg used on input line 54.
-(pdftex.def)             Requested size: 124.96466pt x 68.80583pt.
- [178 <C:/Users/User/Desktop/tech book eng/days/27.03.15/images/01.jpg>]
-<days/27.03.15/images/03.jpg, id=891, 624.83438pt x 344.03531pt>
+Package pdftex.def Info: days/27.03.15/images/02.jpg used on input line 52.
+(pdftex.def)             Requested size: 243.10658pt x 141.22665pt.
+
+<days/27.03.15/images/03.jpg, id=897, 702.37407pt x 437.38406pt>
 File: days/27.03.15/images/03.jpg Graphic file (type jpg)
 
 <use days/27.03.15/images/03.jpg>
-Package pdftex.def Info: days/27.03.15/images/03.jpg used on input line 65.
-(pdftex.def)             Requested size: 112.46533pt x 61.92368pt.
+Package pdftex.def Info: days/27.03.15/images/03.jpg used on input line 63.
+(pdftex.def)             Requested size: 210.71384pt x 131.21622pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4497,47 +4529,78 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 77.
+(epstopdf)             \includegraphics on input line 75.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
  <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-77.
-(pdftex.def)             Requested size: 514.75555pt x 243.5008pt.
+75.
+(pdftex.def)             Requested size: 514.75555pt x 65.58185pt.
 
-[179 <C:/Users/User/Desktop/tech book eng/days/27.03.15/images/02.jpg> <C:/User
+[180 <C:/Users/User/Desktop/tech book eng/days/27.03.15/images/02.jpg> <C:/User
 s/User/Desktop/tech book eng/days/27.03.15/images/03.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/28.03.15/28.03.15.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
+<days/28.03.15/images/01.jpg, id=901, 963.6pt x 722.7pt>
+File: days/28.03.15/images/01.jpg Graphic file (type jpg)
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+<use days/28.03.15/images/01.jpg>
+Package pdftex.def Info: days/28.03.15/images/01.jpg used on input line 13.
+(pdftex.def)             Requested size: 240.89941pt x 180.67455pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--16
+
+ []
+
+<days/28.03.15/images/02.jpg, id=902, 963.6pt x 722.7pt>
+File: days/28.03.15/images/02.jpg Graphic file (type jpg)
+
+<use days/28.03.15/images/02.jpg>
+Package pdftex.def Info: days/28.03.15/images/02.jpg used on input line 24.
+(pdftex.def)             Requested size: 240.89941pt x 180.67455pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[181 <C:/Users/User/Desktop/tech book eng/days/28.03.15/images/01.jpg> <C:/User
+s/User/Desktop/tech book eng/days/28.03.15/images/02.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-[180]
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+[182] <days/28.03.15/images/03.jpg, id=910, 1284.8pt x 856.19875pt>
+File: days/28.03.15/images/03.jpg Graphic file (type jpg)
+
+<use days/28.03.15/images/03.jpg>
+Package pdftex.def Info: days/28.03.15/images/03.jpg used on input line 104.
+(pdftex.def)             Requested size: 256.95544pt x 171.23671pt.
+
+Overfull \hbox (15.04095pt too wide) in paragraph at lines 104--105
+ [] 
+ []
+
+<days/28.03.15/images/04.jpg, id=911, 567.11874pt x 606.265pt>
+File: days/28.03.15/images/04.jpg Graphic file (type jpg)
+
+<use days/28.03.15/images/04.jpg>
+Package pdftex.def Info: days/28.03.15/images/04.jpg used on input line 109.
+(pdftex.def)             Requested size: 170.13693pt x 181.8809pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
  []
 
-[181]
+[183 <C:/Users/User/Desktop/tech book eng/days/28.03.15/images/03.jpg> <C:/User
+s/User/Desktop/tech book eng/days/28.03.15/images/04.jpg>]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4546,14 +4609,15 @@ Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    size: 2504 bytes
 (epstopdf)             Command: <epstopdf --outfile=img/fill_page-eps-converted
 -to.pdf img/fill_page.eps>
-(epstopdf)             \includegraphics on input line 170.
+(epstopdf)             \includegraphics on input line 199.
 Package epstopdf Info: Output file is already uptodate.
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
- <use img/fill_page-eps-converted-to.pdf>
+
+<use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
-170.
-(pdftex.def)             Requested size: 514.75555pt x 24.02821pt.
- [182])
+199.
+(pdftex.def)             Requested size: 514.75555pt x 6.4274pt.
+ [184])
 ("C:\Users\User\Desktop\tech book eng\days/01.04.15/01.04.15.tex"
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
@@ -4571,7 +4635,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 82.
 (pdftex.def)             Requested size: 514.75555pt x 127.36168pt.
- [183])
+ [185])
 ("C:\Users\User\Desktop\tech book eng\days/02.04.15/02.04.15.tex"
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
@@ -4589,13 +4653,13 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 45.
 (pdftex.def)             Requested size: 514.75555pt x 320.19049pt.
- [184])
+ [186])
 ("C:\Users\User\Desktop\tech book eng\days/03.04.15/03.04.15.tex"
 File: days/24.03.15/images/01.jpg Graphic file (type jpg)
 
 <use days/24.03.15/images/01.jpg>
 Package pdftex.def Info: days/24.03.15/images/01.jpg used on input line 22.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+(pdftex.def)             Requested size: 292.9216pt x 89.66064pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4610,19 +4674,19 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
  <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 45.
-(pdftex.def)             Requested size: 514.75555pt x 220.42308pt.
+(pdftex.def)             Requested size: 514.75555pt x 233.97603pt.
 
-[185]) ("C:\Users\User\Desktop\tech book eng\days/04.04.15/04.04.15.tex"
+[187]) ("C:\Users\User\Desktop\tech book eng\days/04.04.15/04.04.15.tex"
 File: days/24.03.15/images/01.jpg Graphic file (type jpg)
 
 <use days/24.03.15/images/01.jpg>
 Package pdftex.def Info: days/24.03.15/images/01.jpg used on input line 28.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+(pdftex.def)             Requested size: 292.9216pt x 89.66064pt.
 File: days/24.03.15/images/01.jpg Graphic file (type jpg)
  <use days/24.03.15/images/01.jpg>
 Package pdftex.def Info: days/24.03.15/images/01.jpg used on input line 43.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
- [186]
+(pdftex.def)             Requested size: 292.9216pt x 89.66064pt.
+ [188]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4638,8 +4702,8 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 76.
-(pdftex.def)             Requested size: 514.75555pt x 498.67645pt.
- [187])
+(pdftex.def)             Requested size: 514.75555pt x 538.95837pt.
+ [189])
 ("C:\Users\User\Desktop\tech book eng\days/06.04.15/06.04.15.tex"
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
@@ -4657,9 +4721,9 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 46.
 (pdftex.def)             Requested size: 514.75555pt x 292.98627pt.
- [188])
+ [190])
 ("C:\Users\User\Desktop\tech book eng\days/07.04.15/07.04.15.tex"
-<days/07.04.15/images/01.jpg, id=924, 624.83438pt x 344.03531pt>
+<days/07.04.15/images/01.jpg, id=937, 624.83438pt x 344.03531pt>
 File: days/07.04.15/images/01.jpg Graphic file (type jpg)
 
 <use days/07.04.15/images/01.jpg>
@@ -4668,7 +4732,7 @@ Package pdftex.def Info: days/07.04.15/images/01.jpg used on input line 24.
 File: days/24.03.15/images/01.jpg Graphic file (type jpg)
  <use days/24.03.15/images/01.jpg>
 Package pdftex.def Info: days/24.03.15/images/01.jpg used on input line 35.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+(pdftex.def)             Requested size: 292.9216pt x 89.66064pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4684,8 +4748,8 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 62.
-(pdftex.def)             Requested size: 514.75555pt x 0.20648pt.
- [189 <C:/Users/User/Desktop/tech book eng/days/07.04.15/images/01.jpg>])
+(pdftex.def)             Requested size: 514.75555pt x 13.75943pt.
+ [191 <C:/Users/User/Desktop/tech book eng/days/07.04.15/images/01.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/09.04.15/09.04.15.tex"
 File: days/07.04.15/images/01.jpg Graphic file (type jpg)
 
@@ -4712,9 +4776,9 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 64.
 (pdftex.def)             Requested size: 514.75555pt x -3.78893pt.
- [190])
+ [192])
 ("C:\Users\User\Desktop\tech book eng\days/11.04.15/11.04.15.tex"
-<days/11.04.15/images/01.jpg, id=931, 624.83438pt x 344.03531pt>
+<days/11.04.15/images/01.jpg, id=944, 624.83438pt x 344.03531pt>
 File: days/11.04.15/images/01.jpg Graphic file (type jpg)
 
 <use days/11.04.15/images/01.jpg>
@@ -4736,7 +4800,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 47.
 (pdftex.def)             Requested size: 514.75555pt x 189.22343pt.
 
-[191 <C:/Users/User/Desktop/tech book eng/days/11.04.15/images/01.jpg>])
+[193 <C:/Users/User/Desktop/tech book eng/days/11.04.15/images/01.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/12.04.15/12.04.15.tex"
 File: days/07.04.15/images/01.jpg Graphic file (type jpg)
 
@@ -4752,7 +4816,7 @@ File: days/07.04.15/images/01.jpg Graphic file (type jpg)
 <use days/07.04.15/images/01.jpg>
 Package pdftex.def Info: days/07.04.15/images/01.jpg used on input line 48.
 (pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
- [192]
+ [194]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4769,7 +4833,7 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 77.
 (pdftex.def)             Requested size: 514.75555pt x 541.08884pt.
- [193])
+ [195])
 ("C:\Users\User\Desktop\tech book eng\days/13.04.15/13.04.15.tex"
 File: days/07.04.15/images/01.jpg Graphic file (type jpg)
 
@@ -4780,7 +4844,7 @@ File: days/07.04.15/images/01.jpg Graphic file (type jpg)
  <use days/07.04.15/images/01.jpg>
 Package pdftex.def Info: days/07.04.15/images/01.jpg used on input line 39.
 (pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
- [194]
+ [196]
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4797,9 +4861,9 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 80.
 (pdftex.def)             Requested size: 514.75555pt x 435.27094pt.
- [195])
+ [197])
 ("C:\Users\User\Desktop\tech book eng\days/14.04.15/14.04.15.tex"
-<days/14.04.15/images/01.jpg, id=948, 624.83438pt x 344.03531pt>
+<days/14.04.15/images/01.jpg, id=961, 624.83438pt x 344.03531pt>
 File: days/14.04.15/images/01.jpg Graphic file (type jpg)
 
 <use days/14.04.15/images/01.jpg>
@@ -4821,7 +4885,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 55.
 (pdftex.def)             Requested size: 514.75555pt x 61.5471pt.
 
-[196 <C:/Users/User/Desktop/tech book eng/days/14.04.15/images/01.jpg>])
+[198 <C:/Users/User/Desktop/tech book eng/days/14.04.15/images/01.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/15.04.15/15.04.15.tex"
 File: days/14.04.15/images/01.jpg Graphic file (type jpg)
 
@@ -4848,9 +4912,9 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 68.
 (pdftex.def)             Requested size: 514.75555pt x -25.38843pt.
- [197])
+ [199])
 ("C:\Users\User\Desktop\tech book eng\days/16.04.15/16.04.15.tex"
-<days/16.04.15/images/01.jpg, id=955, 624.83438pt x 344.03531pt>
+<days/16.04.15/images/01.jpg, id=969, 624.83438pt x 344.03531pt>
 File: days/16.04.15/images/01.jpg Graphic file (type jpg)
 
 <use days/16.04.15/images/01.jpg>
@@ -4868,7 +4932,7 @@ Package pdftex.def Info: days/16.04.15/images/01.jpg used on input line 48.
 
 Underfull \vbox (badness 2359) has occurred while \output is active []
 
- [198 <C:/Users/User/Desktop/tech book eng/days/16.04.15/images/01.jpg>]
+ [200 <C:/Users/User/Desktop/tech book eng/days/16.04.15/images/01.jpg>]
 File: days/16.04.15/images/01.jpg Graphic file (type jpg)
 
 <use days/16.04.15/images/01.jpg>
@@ -4890,7 +4954,7 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 96.
 (pdftex.def)             Requested size: 514.75555pt x 86.47011pt.
 
-[199]) ("C:\Users\User\Desktop\tech book eng\days/17.04.15/17.04.15.tex"
+[201]) ("C:\Users\User\Desktop\tech book eng\days/17.04.15/17.04.15.tex"
 File: days/16.04.15/images/01.jpg Graphic file (type jpg)
 
 <use days/16.04.15/images/01.jpg>
@@ -4912,12 +4976,12 @@ Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line
 67.
 (pdftex.def)             Requested size: 514.75555pt x 26.81746pt.
 
-[200]) ("C:\Users\User\Desktop\tech book eng\days/18.04.15/18.04.15.tex"
+[202]) ("C:\Users\User\Desktop\tech book eng\days/18.04.15/18.04.15.tex"
 File: days/24.03.15/images/01.jpg Graphic file (type jpg)
 
 <use days/24.03.15/images/01.jpg>
 Package pdftex.def Info: days/24.03.15/images/01.jpg used on input line 26.
-(pdftex.def)             Requested size: 187.45175pt x 103.21138pt.
+(pdftex.def)             Requested size: 292.9216pt x 89.66064pt.
 Package epstopdf Info: Source file: <img/fill_page.eps>
 (epstopdf)                    date: 2015-04-16 18:43:34
 (epstopdf)                    size: 35507 bytes
@@ -4932,9 +4996,9 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
  <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 55.
-(pdftex.def)             Requested size: 514.75555pt x 83.74968pt.
+(pdftex.def)             Requested size: 514.75555pt x 97.29936pt.
 
-[201])
+[203])
 ("C:\Users\User\Desktop\tech book eng\days/Thanks_for_sponsors/Thanks_for_spons
 ors.tex"
 Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
@@ -4942,7 +5006,7 @@ Overfull \hbox (9.76646pt too wide) in paragraph at lines 13--14
 epresentative "Irisoft"and charitable foundation
  []
 
-<days/Thanks_for_sponsors/images/01.jpg, id=969, 169.63374pt x 63.23625pt>
+<days/Thanks_for_sponsors/images/01.jpg, id=982, 169.63374pt x 63.23625pt>
 File: days/Thanks_for_sponsors/images/01.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/01.jpg>
@@ -4950,7 +5014,7 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/01.jpg used on input l
 ine 24.
 (pdftex.def)             Requested size: 169.63332pt x 63.23608pt.
 
-<days/Thanks_for_sponsors/images/02.jpg, id=970, 925.056pt x 367.1316pt>
+<days/Thanks_for_sponsors/images/02.jpg, id=983, 925.056pt x 367.1316pt>
 File: days/Thanks_for_sponsors/images/02.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/02.jpg>
@@ -4958,7 +5022,7 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/02.jpg used on input l
 ine 28.
 (pdftex.def)             Requested size: 185.00792pt x 73.425pt.
 
-<days/Thanks_for_sponsors/images/03.png, id=971, 37.94176pt x 56.6115pt>
+<days/Thanks_for_sponsors/images/03.png, id=984, 37.94176pt x 56.6115pt>
 File: days/Thanks_for_sponsors/images/03.png Graphic file (type png)
 
 <use days/Thanks_for_sponsors/images/03.png>
@@ -4966,7 +5030,7 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/03.png used on input l
 ine 36.
 (pdftex.def)             Requested size: 113.82495pt x 169.83403pt.
 
-<days/Thanks_for_sponsors/images/05.jpg, id=972, 382.42876pt x 383.4325pt>
+<days/Thanks_for_sponsors/images/05.jpg, id=985, 382.42876pt x 383.4325pt>
 File: days/Thanks_for_sponsors/images/05.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/05.jpg>
@@ -4974,20 +5038,20 @@ Package pdftex.def Info: days/Thanks_for_sponsors/images/05.jpg used on input l
 ine 40.
 (pdftex.def)             Requested size: 133.85207pt x 134.20338pt.
 
-<days/Thanks_for_sponsors/images/04.jpg, id=973, 102.3825pt x 91.34125pt>
+<days/Thanks_for_sponsors/images/04.jpg, id=986, 102.3825pt x 91.34125pt>
 File: days/Thanks_for_sponsors/images/04.jpg Graphic file (type jpg)
 
 <use days/Thanks_for_sponsors/images/04.jpg>
 Package pdftex.def Info: days/Thanks_for_sponsors/images/04.jpg used on input l
 ine 44.
 (pdftex.def)             Requested size: 102.38225pt x 91.34102pt.
- [202 <C:/Users/User/Desktop/tech book eng/days/Thanks_for_sponsors/images/01.j
+ [204 <C:/Users/User/Desktop/tech book eng/days/Thanks_for_sponsors/images/01.j
 pg> <C:/Users/User/Desktop/tech book eng/days/Thanks_for_sponsors/images/02.jpg
 > <C:/Users/User/Desktop/tech book eng/days/Thanks_for_sponsors/images/03.png> 
 <C:/Users/User/Desktop/tech book eng/days/Thanks_for_sponsors/images/05.jpg> <C
 :/Users/User/Desktop/tech book eng/days/Thanks_for_sponsors/images/04.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/Key_summary/Key_summary.tex"
-<days/Key_summary/images/A_photo.jpg, id=978, 361.35pt x 271.0125pt>
+<days/Key_summary/images/A_photo.jpg, id=991, 361.35pt x 271.0125pt>
 File: days/Key_summary/images/A_photo.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/A_photo.jpg>
@@ -4995,25 +5059,25 @@ Package pdftex.def Info: days/Key_summary/images/A_photo.jpg used on input line
  7.
 (pdftex.def)             Requested size: 361.34912pt x 271.01183pt.
 
-<days/Key_summary/images/A_photo2.jpg, id=979, 361.35pt x 271.0125pt>
+<days/Key_summary/images/A_photo2.jpg, id=992, 361.35pt x 271.0125pt>
 File: days/Key_summary/images/A_photo2.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/A_photo2.jpg>
 Package pdftex.def Info: days/Key_summary/images/A_photo2.jpg used on input lin
 e 12.
 (pdftex.def)             Requested size: 361.34912pt x 271.01183pt.
- [203 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/A_photo.jpg>
+ [205 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/A_photo.jpg>
  <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/A_photo2.jpg>]
-<days/Key_summary/images/El-scheme.pdf, id=983, 731.37242pt x 1035.87pt>
+<days/Key_summary/images/El-scheme.pdf, id=997, 731.37242pt x 1035.87pt>
 File: days/Key_summary/images/El-scheme.pdf Graphic file (type pdf)
 
 <use days/Key_summary/images/El-scheme.pdf>
 Package pdftex.def Info: days/Key_summary/images/El-scheme.pdf used on input li
 ne 21.
 (pdftex.def)             Requested size: 438.82684pt x 621.5268pt.
- [204 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/El-scheme.pd
+ [206 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/El-scheme.pd
 f>]
-<days/Key_summary/images/01-1.jpg, id=995, 593.96906pt x 721.94719pt>
+<days/Key_summary/images/01-1.jpg, id=1103, 593.96906pt x 721.94719pt>
 File: days/Key_summary/images/01-1.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/01-1.jpg>
@@ -5021,7 +5085,7 @@ Package pdftex.def Info: days/Key_summary/images/01-1.jpg used on input line 33
 .
 (pdftex.def)             Requested size: 475.17589pt x 577.55853pt.
 
-<days/Key_summary/images/01-2.jpg, id=996, 752.8125pt x 837.88031pt>
+<days/Key_summary/images/01-2.jpg, id=1104, 752.8125pt x 837.88031pt>
 File: days/Key_summary/images/01-2.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/01-2.jpg>
@@ -5033,8 +5097,8 @@ Overfull \hbox (97.83685pt too wide) in paragraph at lines 39--40
  [] 
  []
 
-[205 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-1.jpg>]
-<days/Key_summary/images/01-3.jpg, id=1001, 740.7675pt x 844.65562pt>
+[207 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-1.jpg>]
+<days/Key_summary/images/01-3.jpg, id=1108, 740.7675pt x 844.65562pt>
 File: days/Key_summary/images/01-3.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/01-3.jpg>
@@ -5049,8 +5113,8 @@ Overfull \hbox (77.90443pt too wide) in paragraph at lines 45--46
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [206 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-2.jpg>]
-<days/Key_summary/images/01-4.jpg, id=1005, 740.7675pt x 832.61063pt>
+ [208 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-2.jpg>]
+<days/Key_summary/images/01-4.jpg, id=1112, 740.7675pt x 832.61063pt>
 File: days/Key_summary/images/01-4.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/01-4.jpg>
@@ -5065,8 +5129,8 @@ Overfull \hbox (77.90443pt too wide) in paragraph at lines 51--52
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [207 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-3.jpg>]
-<days/Key_summary/images/02-1.jpg, id=1009, 764.8575pt x 722.7pt>
+ [209 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-3.jpg>]
+<days/Key_summary/images/02-1.jpg, id=1116, 764.8575pt x 722.7pt>
 File: days/Key_summary/images/02-1.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/02-1.jpg>
@@ -5091,15 +5155,15 @@ Package epstopdf Info: Output file is already uptodate.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [208 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-4.jpg>]
+ [210 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/01-4.jpg>]
 File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/fill_page-eps-converted-to.pdf>
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 62.
 (pdftex.def)             Requested size: 514.75555pt x -626.65105pt.
- [209 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-1.jpg>]
-<days/Key_summary/images/02-2.jpg, id=1016, 764.8575pt x 770.88pt>
+ [211 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-1.jpg>]
+<days/Key_summary/images/02-2.jpg, id=1124, 764.8575pt x 770.88pt>
 File: days/Key_summary/images/02-2.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/02-2.jpg>
@@ -5131,8 +5195,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 69--69
 [][] 
  []
 
-[210 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-2.jpg>]
-<days/Key_summary/images/02-3.jpg, id=1020, 764.8575pt x 769.37437pt>
+[212 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-2.jpg>]
+<days/Key_summary/images/02-3.jpg, id=1128, 764.8575pt x 769.37437pt>
 File: days/Key_summary/images/02-3.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/02-3.jpg>
@@ -5164,8 +5228,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 76--76
 [][] 
  []
 
-[211 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-3.jpg>]
-<days/Key_summary/images/02-4.jpg, id=1025, 764.8575pt x 766.36313pt>
+[213 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-3.jpg>]
+<days/Key_summary/images/02-4.jpg, id=1132, 764.8575pt x 766.36313pt>
 File: days/Key_summary/images/02-4.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/02-4.jpg>
@@ -5197,8 +5261,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 83--83
 [][] 
  []
 
-[212 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-4.jpg>]
-<days/Key_summary/images/02-5.jpg, id=1029, 764.8575pt x 767.86874pt>
+[214 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-4.jpg>]
+<days/Key_summary/images/02-5.jpg, id=1136, 764.8575pt x 767.86874pt>
 File: days/Key_summary/images/02-5.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/02-5.jpg>
@@ -5230,8 +5294,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 90--90
 [][] 
  []
 
-[213 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-5.jpg>]
-<days/Key_summary/images/02-6.jpg, id=1033, 764.8575pt x 617.30624pt>
+[215 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-5.jpg>]
+<days/Key_summary/images/02-6.jpg, id=1140, 764.8575pt x 617.30624pt>
 File: days/Key_summary/images/02-6.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/02-6.jpg>
@@ -5263,8 +5327,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 97--97
 [][] 
  []
 
-[214 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-6.jpg>]
-<days/Key_summary/images/03-1.jpg, id=1037, 668.4975pt x 721.19438pt>
+[216 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/02-6.jpg>]
+<days/Key_summary/images/03-1.jpg, id=1144, 668.4975pt x 721.19438pt>
 File: days/Key_summary/images/03-1.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/03-1.jpg>
@@ -5291,8 +5355,8 @@ File: img/fill_page-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: img/fill_page-eps-converted-to.pdf used on input line 
 106.
 (pdftex.def)             Requested size: 514.75555pt x 56.3914pt.
- [215 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-1.jpg>]
-<days/Key_summary/images/03-2.jpg, id=1041, 668.4975pt x 764.8575pt>
+ [217 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-1.jpg>]
+<days/Key_summary/images/03-2.jpg, id=1149, 668.4975pt x 764.8575pt>
 File: days/Key_summary/images/03-2.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/03-2.jpg>
@@ -5324,8 +5388,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 113--113
 [][] 
  []
 
-[216 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-2.jpg>]
-<days/Key_summary/images/03-3.jpg, id=1045, 668.4975pt x 767.11594pt>
+[218 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-2.jpg>]
+<days/Key_summary/images/03-3.jpg, id=1153, 668.4975pt x 767.11594pt>
 File: days/Key_summary/images/03-3.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/03-3.jpg>
@@ -5357,8 +5421,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 120--120
 [][] 
  []
 
-[217 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-3.jpg>]
-<days/Key_summary/images/03-4.jpg, id=1050, 668.4975pt x 767.86874pt>
+[219 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-3.jpg>]
+<days/Key_summary/images/03-4.jpg, id=1157, 668.4975pt x 767.86874pt>
 File: days/Key_summary/images/03-4.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/03-4.jpg>
@@ -5390,8 +5454,8 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 127--127
 [][] 
  []
 
-[218 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-4.jpg>]
-<days/Key_summary/images/03-5.jpg, id=1054, 668.4975pt x 373.395pt>
+[220 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-4.jpg>]
+<days/Key_summary/images/03-5.jpg, id=1161, 668.4975pt x 373.395pt>
 File: days/Key_summary/images/03-5.jpg Graphic file (type jpg)
 
 <use days/Key_summary/images/03-5.jpg>
@@ -5423,14 +5487,14 @@ Overfull \hbox (17.04518pt too wide) in paragraph at lines 134--134
 [][] 
  []
 
-[219 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-5.jpg>])
+[221 <C:/Users/User/Desktop/tech book eng/days/Key_summary/images/03-5.jpg>])
 ("C:\Users\User\Desktop\tech book eng\days/Business_plan/Business_plan.tex"
-[220]) ("C:\Users\User\Desktop\tech book eng\tech_doc.aux") ) 
+[222]) ("C:\Users\User\Desktop\tech book eng\tech_doc.aux") ) 
 Here is how much of TeX's memory you used:
- 8059 strings out of 493921
- 140852 string characters out of 3144879
- 151777 words of memory out of 3000000
- 10352 multiletter control sequences out of 15000+200000
+ 8088 strings out of 493921
+ 141790 string characters out of 3144879
+ 152145 words of memory out of 3000000
+ 10380 multiletter control sequences out of 15000+200000
  26177 words of font info for 74 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  42i,11n,43p,875b,723s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -5449,9 +5513,9 @@ fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1728.pk><C:/Program Files (x86)/MiKTeX 2.9
 onts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on tech_doc.pdf (220 pages, 71188185 bytes).
+Output written on tech_doc.pdf (222 pages, 73318241 bytes).
 PDF statistics:
- 1543 PDF objects out of 1728 (max. 8388607)
+ 1651 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1336 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1371 words of extra memory for PDF output out of 10000 (max. 10000000)
 
