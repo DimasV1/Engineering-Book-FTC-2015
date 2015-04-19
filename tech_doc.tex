@@ -1,4 +1,4 @@
-\documentclass[11pt, twoside]{article}
+\documentclass[11pt]{article}
 
 \usepackage{ucs}
 \usepackage{graphicx}
@@ -6,13 +6,13 @@
 \usepackage{anyfontsize}
 \usepackage[T1]{fontenc}
 \usepackage[utf8x]{inputenc} 
-\usepackage[english, russian]{babel}
+\usepackage[russian]{babel}
 \usepackage{amssymb, amsfonts, amsmath, mathtext, cite, enumerate, float}
 \usepackage{geometry}
 \usepackage{fancyhdr}
 \usepackage{epstopdf}
 \fancypagestyle{titlestyle}
-{ 
+{
 	\fancyhead{}
 	\fancyfoot{}
 	\renewcommand{\footrulewidth}{0.0 mm}
@@ -33,12 +33,14 @@
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
 \renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}.}
 \pagestyle{fancy}
-
+{
 \fancyhead{}
 \fancyhead[C]{PML30 Saint-Petersburg}
 \fancyfoot{}
-\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[R]{\thepage}
 \fancyfoot[C]{Russia, St. Petersburg, Physics-Mathematics Lyceum №30. 2014-2015}
+}
+
 
 \begin{document}
 
@@ -51,7 +53,7 @@
 	
 	\input{days/Team/Team}
 	\input{days/Events/Events}
-
+	\input{days/Business_plan/Business_plan}
 	\input{days/Beginning/Beginning}
 	\input{days/Materials/Materials}
 	%\input{days/Dictionary/Dictionary}
@@ -182,12 +184,12 @@
 	\input{days/15.04.15/15.04.15}
 	\input{days/16.04.15/16.04.15}
 	\input{days/17.04.15/17.04.15}
-	\input{days/18.04.15/18.04.15}
 	
 	\input{days/Thanks_for_sponsors/Thanks_for_sponsors}
 
 	\input{days/Key_summary/Key_summary}
-	\input{days/Business_plan/Business_plan}
+	\input{days/appendix/appendix}
+	
 	%\input{days/addition1/addition1}
 	
 \end{document}
