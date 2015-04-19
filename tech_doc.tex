@@ -1,4 +1,4 @@
-\documentclass[11pt]{article}
+\documentclass[11pt, twoside]{article}
 
 \usepackage{ucs}
 \usepackage{graphicx}
@@ -6,13 +6,13 @@
 \usepackage{anyfontsize}
 \usepackage[T1]{fontenc}
 \usepackage[utf8x]{inputenc} 
-\usepackage[russian]{babel}
+\usepackage[english, russian]{babel}
 \usepackage{amssymb, amsfonts, amsmath, mathtext, cite, enumerate, float}
 \usepackage{geometry}
 \usepackage{fancyhdr}
 \usepackage{epstopdf}
 \fancypagestyle{titlestyle}
-{
+{ 
 	\fancyhead{}
 	\fancyfoot{}
 	\renewcommand{\footrulewidth}{0.0 mm}
@@ -33,14 +33,12 @@
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
 \renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}.}
 \pagestyle{fancy}
-{
+
 \fancyhead{}
 \fancyhead[C]{PML30 Saint-Petersburg}
 \fancyfoot{}
-\fancyfoot[R]{\thepage}
+\fancyfoot[LE,RO]{\thepage}
 \fancyfoot[C]{Russia, St. Petersburg, Physics-Mathematics Lyceum №30. 2014-2015}
-}
-
 
 \begin{document}
 
@@ -184,6 +182,7 @@
 	\input{days/15.04.15/15.04.15}
 	\input{days/16.04.15/16.04.15}
 	\input{days/17.04.15/17.04.15}
+	\input{days/18.04.15/18.04.15}
 	
 	\input{days/Thanks_for_sponsors/Thanks_for_sponsors}
 
